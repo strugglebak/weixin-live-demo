@@ -12,3 +12,7 @@ $RECYCLE.BIN/
 
 # Node.js
 node_modules/
+
+# 小程序
+
+miniprogram_npm/
